@@ -1,0 +1,2 @@
+# output directory — plan artefacts are saved here at runtime
+# Each run creates a timestamped subdirectory: output/plan_YYYYMMDD_HHMMSS/
